@@ -1,5 +1,133 @@
 body {
     font-family: "Roboto", Arial, Helvetica, sans-serif;
-    color: var(--navy-blue);
+    color: #2e2f42;
+}
+
+.logo {
+text-decoration: none;
+}
+
+.logo-web {
+font-family: "Raleway",sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+
+.logo-studio {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;;
+}
+
+.nav-link {
+font-family: "Roboto",sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-decoration: none;
+}
+
+.nav-link:hover, .nav-link:focus {
+font-family: "Raleway", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+}
+
+.contact-info {
+font-weight: 400;
+font-size: 16px;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+}
+
+.contact-info:hover, .contact-info:focus {
+font-weight: 400;
+font-size: 16px;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
+text-decoration: none;
+}
+
+.slogan-text {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.order-button {
+background-color: #4d5ae5;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+cursor: pointer;
+}
+
+.order-button:hover, .order-button:focus {
+background-color: #404bbf;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+.section-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.section-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.portfolio-item {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.portfolio-dscr {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
 
