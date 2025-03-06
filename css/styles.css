@@ -1,18 +1,18 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF
 }
 
 .logo {
 text-decoration: none;
 font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
 
 .logo-studio {
@@ -32,6 +32,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none;
+color:#2e2f42;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -40,7 +41,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #404bbf;
+color: #404bbf; 
 }
 
 .contact-info {
@@ -63,16 +64,20 @@ color: #404bbf;
 text-decoration: none;
 }
 
+.welcome-page {
+    background-color: #2e2f42;
+}
 .slogan-text {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
 
 .order-button {
+font-family: "Roboto", sans-serif;
 background-color: #4d5ae5;
 font-weight: 500;
 font-size: 16px;
