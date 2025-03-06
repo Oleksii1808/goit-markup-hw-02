@@ -67,6 +67,7 @@ text-decoration: none;
 .welcome-page {
     background-color: #2e2f42;
 }
+
 .slogan-text {
 font-weight: 700;
 font-size: 56px;
@@ -101,14 +102,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-}
-
-.section-title {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11111;
-letter-spacing: 0.02em;
-text-align: center;
+color: 2e2f42;
 }
 
 .portfolio-item {
