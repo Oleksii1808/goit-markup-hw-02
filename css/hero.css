@@ -19,7 +19,8 @@
     cursor: pointer;
 }
 
-.main-page-button:hover .main-page-button:focus {
+.main-page-button:hover,
+.main-page-button:focus {
 background-color: #404bbf;
 }
 
